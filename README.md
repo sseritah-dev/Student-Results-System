@@ -1,2 +1,2 @@
-# Student-Results-System
-A python application for managing student results, grades and class statistics.
+# Student Results Management System
+A python application for managing student results, calculating grades and generating class performance statistics.
